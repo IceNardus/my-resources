@@ -307,9 +307,6 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,https://t.freetv.fun/live/wei-lai-ti-yu-ee.php
 
-纬来体育,rtmp://f13h.mine.nu/sat/tv721$LR•IPV4『线路1』
-纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$LR•IPV4『线路2』
-纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8$LR•IPV4『线路3』
 
 智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
 
