@@ -245,7 +245,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 体育,#genre#
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
-安徽综艺体育,https://t.freetv.fun/live/an-hui-zong-yi-ti-yu.m3u8 
+安徽综艺体育,https://t.freetv.fun/live/an-hui-zong-yi-ti-yu-2.m3u8 
 
 
 JJ斗地主,https://live.ottiptv.cc/douyu/488743
