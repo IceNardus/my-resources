@@ -297,7 +297,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
+辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8 
 
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
@@ -305,22 +305,13 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 劲爆体育,http://dassby.qqff.top:99/live/劲爆体育/index.m3u8
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 
-咪咕体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-
 澳门体育,http://cdn6.163189.xyz/163189/amty
 
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-
-緯來體育,http://dassby.qqff.top:99/live/纬来体育/index.m3u8
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,https://t.freetv.fun/live/wei-lai-ti-yu-ee.php
 
-
 智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
-
-ELEVEN体育,https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
-ELEVEN体育,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 
 ELTA體育,https://t.freetv.fun/live/delta-tv-1.m3u8
 ELTA體育,https://t.freetv.fun/live/cctv4mei-zhou.m3u8
