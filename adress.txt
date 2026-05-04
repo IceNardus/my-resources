@@ -280,8 +280,6 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
 五星體育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
-
-
 五星體育,http://111.56.90.5/000000000000/5000000010000017540/1.m3u8
 
 
@@ -307,7 +305,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,https://t.freetv.fun/live/wei-lai-ti-yu-ee.php
 
-
+NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
 
