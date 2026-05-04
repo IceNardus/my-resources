@@ -281,7 +281,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 五星體育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 五星體育,http://111.56.90.5/000000000000/5000000010000017540/1.m3u8
-
+五星體育,http://139.196.151.191:2051/rtp/239.45.3.210:5140
 
 廣東體育,,https://t.freetv.fun/live/yan-dong-ti-yu.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
@@ -289,6 +289,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-10.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-10.m3u8
 
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
@@ -298,6 +299,8 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 劲爆体育,http://dassby.qqff.top:99/live/劲爆体育/index.m3u8
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 澳门体育,http://cdn6.163189.xyz/163189/amty
 
@@ -306,6 +309,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 緯來體育,https://t.freetv.fun/live/wei-lai-ti-yu-ee.php
 
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+
 
 智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
 
