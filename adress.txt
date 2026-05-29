@@ -383,32 +383,54 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 五星體育,http://192.187.115.106:82/live/wxty.m3u8?jsbt=1780033737&jsbk=b542f4b4e642b92ad802616832af428d&from=zbdq5
 五星體育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星體育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-
-
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 
 劲爆体育,http://dassby.qqff.top:99/live/劲爆体育/index.m3u8
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-
+劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 
 澳门体育,http://cdn6.163189.xyz/163189/amty
 
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+緯來體育,http://v-monitor.namitiyu.com/live/eacfcb76dcd844011deb1c95aa522720.flv
+緯來體育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
+緯來體育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8$订阅源
+
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育,http://107.150.60.122/live/gdty.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
 
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
+Now体育台,http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
-智林體育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
+智林体育台,http://117.23.52.44/zcycpull.gzqlsy.cn/live/4ce2a0cbd652949c781de4885aa95b76.flv
 
-ELTA體育,https://t.freetv.fun/live/delta-tv-1.m3u8
-ELTA體育,https://t.freetv.fun/live/cctv4mei-zhou.m3u8
-ELTA體育,https://t.freetv.fun/live/cctv-4k.m3u8
-ELTA體育,https://t.freetv.fun/live/delta-tv-1.m3u8
+ELTA体育,http://171.43.203.136/apull.rockoncall.com/live/91e271903434c32ba72b4285341c7650.flv
+ELTA体育,http://v-monitor.namitiyu.com/live/kGAUYEb2pKKuJIPXRII5sF5yTNAWJNeY.flv
+ELTA体育,http://180.97.174.142/apull.rockoncall.com/live/28d0e8a3a1d90870e79580f4bb98131e.flv
+ELTA体育,http://182.242.89.244/apull.rockoncall.com/live/7821a9ab2e78456bad7ff54552c3a591.flv
+ELTA体育,http://175.12.98.92/apull.rockoncall.com/live/29b8daab2bb48f700159b43c7ccd5f11.flv
+ELTA体育,http://222.81.120.233/apull.rockoncall.com/live/656eecf8c37f5dd153ca77851799075d.flv
+ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/112973a19786a7284270affe3ad72630.flv
+ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/6c6299383798c66c66374b9065c656b0.flv
 
 
 now Sports HD,https://t.freetv.fun/live/now-sportsjing-xuan.m3u8
@@ -441,6 +463,7 @@ CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 金鷹卡通,https://t.freetv.fun/live/jin-ying-qia-tong-1.m3u8
 金鷹卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPThmZTZlMWJmYmZkNmFmMGY4ZmMyZWQ5MjI5M2M0Y2Y2JnVpZD0mdXVpZD0zNTgyNjRjMzU2NWQ5ZTkzOWViNmY5MjIwMjU3YmVlNy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc0ODgzMDk4/JYKTMPP360.m3u8
 金鷹卡通,https://t.freetv.fun/live/jin-ying-qia-tong-3.m3u8
+金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
 
 卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
