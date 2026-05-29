@@ -77,6 +77,7 @@ CCTV13新闻,https://t.freetv.fun/live/cctv13.m3u8
 CCTV13新闻,https://t.freetv.fun/live/cctv13-1.php
 CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 
+CCTV14少儿,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV14少儿,https://t.freetv.fun/live/cctv14.php
 CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV14少儿,https://t.freetv.fun/live/cctv14-3.m3u8
@@ -260,6 +261,28 @@ CCTV5体育,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV5体育,http://120.76.248.139/live/bfgd/4200000064.m3u8
 
 
+
+CCTV-5,http://60.10.139.113:8801/hls/5/index.m3u8
+CCTV-5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://113.124.233.189:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV-5,http://113.241.135.29:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://113.241.135.29:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://106.46.113.81:8888/hls/5/index.m3u8
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=2
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=3
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=4
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=5
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=6
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=7
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=8
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=9
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=10
+CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=11
+CCTV-5,http://111.8.242.124:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://183.62.8.58:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://60.187.244.229:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-6.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi.m3u8
@@ -267,6 +290,27 @@ CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8$LR•15•IPV4『线路1』
 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+
+CCTV-5+,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://113.241.135.29:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://113.241.135.29:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://111.8.242.124:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://220.187.124.90:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://221.232.198.11:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://111.8.242.102:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://221.232.198.79:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://221.232.199.30:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+CCTV-5+,http://59.173.121.226:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://221.232.199.187:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://59.175.155.147:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV-5+,http://59.175.155.185:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
+CCTV-5+,http://121.19.134.56:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://121.19.134.141:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 CCTV16奥林匹克,https://t.freetv.fun/live/cctv16-5.m3u8
 CCTV16奥林匹克,https://t.freetv.fun/live/cctv-16hd-1.m3u8
@@ -292,6 +336,9 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-10.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-10.m3u8
 
+爱体育,http://109.237.26.157/rtp/225.1.4.5:1034
+超级体育,http://109.237.26.157/rtp/238.125.3.65:5140
+超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 
 
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
