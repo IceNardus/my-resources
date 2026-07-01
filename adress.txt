@@ -312,6 +312,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 JJ斗地主,https://live.ottiptv.cc/douyu/488743
 
+
+CCTV5体育,http://69.30.245.50/live/cctv5.m3u8
+CCTV5体育,http://113.119.24.239:58888/udp/239.77.0.170:5146
+CCTV5体育,http://39.77.158.228:4002/rtp/239.253.254.192:8000
+CCTV5体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5体育,http://www.cdnstv.com:6398/hls/5/index.m3u8
+CCTV5体育,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,rtp://239.253.92.181:6046
+CCTV5体育,http://183.236.43.98:4111/udp/239.77.0.170:5146
 CCTV5体育,http://180.165.20.227:8001/rtp/233.18.204.71:5140
 CCTV5体育,http://112.27.235.94:8000/hls/5/index.m3u8
 CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -320,17 +329,10 @@ CCTV5体育,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV5体育,http://120.76.248.139/live/bfgd/4200000064.m3u8
 
 CCTV-5,http://60.10.139.113:8801/hls/5/index.m3u8
-CCTV-5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://113.124.233.189:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-5,http://113.241.135.29:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://113.241.135.29:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://106.46.113.81:8888/hls/5/index.m3u8
-CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=2
-CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=3
-CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=4
-CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=5
-CCTV-5,http://47.97.252.137:8086/tvlive/cctv5hd.m3u8?node=6
 CCTV-5,http://111.8.242.124:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://183.62.8.58:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://60.187.244.229:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
