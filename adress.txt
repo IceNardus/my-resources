@@ -93,6 +93,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 江苏卫视,http://60.10.139.113:8801/hls/19/index.m3u8
+江苏卫视,http://101.66.194.29:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://183.131.110.207:85/tsfile/live/23/2010_1.m3u8?key=txiptv
 江苏卫视,http://61.178.227.57:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://113.124.233.189:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -382,9 +383,7 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
-五星體育,http://192.187.115.106:82/live/wxty.m3u8?jsbt=1780033737&jsbk=b542f4b4e642b92ad802616832af428d&from=zbdq5
-五星體育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-五星體育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 
@@ -401,6 +400,7 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 緯來體育,http://v-monitor.namitiyu.com/live/eacfcb76dcd844011deb1c95aa522720.flv
 緯來體育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 緯來體育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
+
 
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
@@ -419,6 +419,8 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
 
+DAZN 2(TW),rtmp://f13h.mine.nu/sat/tv741
+
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 Now体育台,http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
@@ -434,10 +436,14 @@ ELTA体育,http://222.81.120.233/apull.rockoncall.com/live/656eecf8c37f5dd153ca7
 ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/112973a19786a7284270affe3ad72630.flv
 ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/6c6299383798c66c66374b9065c656b0.flv
 
+ESPN,http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+Fox Sports,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+PGA Tour,https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 now Sports HD,https://t.freetv.fun/live/now-sportsjing-xuan.m3u8
 
-DAZN 2(TW),rtmp://f13h.mine.nu/sat/tv741
+KTV Sport,https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 TNT Sports(国外),https://t.freetv.fun/live/n-sports-1.m3u8
 PSL(国外),http://103.175.242.10:8080/tsports1/index.m3u8
