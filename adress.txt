@@ -419,6 +419,8 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
 
+山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
+
 咪咕视频1,rtp://239.0.2.208:5000
 
 咪咕视频2,rtp://239.0.2.209:5000
