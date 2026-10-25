@@ -92,6 +92,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 
+江苏卫视,http://8.138.7.223/tv/jsws4k.php
 江苏卫视,http://60.10.139.113:8801/hls/19/index.m3u8
 江苏卫视,http://101.66.194.29:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://183.131.110.207:85/tsfile/live/23/2010_1.m3u8?key=txiptv
@@ -421,19 +422,6 @@ CCTV16奥林匹克,http://121.19.134.141:808/tsfile/live/0016_1.m3u8?key=txiptv&
 
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 
-咪咕视频1,rtp://239.0.2.208:5000
-
-咪咕视频2,rtp://239.0.2.209:5000
-
-咪咕视频3,rtp://239.0.2.210:5000
-
-咪咕视频4,rtp://239.0.2.211:5000
-
-咪咕视频5,rtp://239.0.2.212:5000
-
-咪咕视频6,rtp://239.0.2.213:5000
-
-咪咕视频7,rtp://239.0.2.214:5000
 
 DAZN 2(TW),rtmp://f13h.mine.nu/sat/tv741
 
@@ -452,7 +440,14 @@ ELTA体育,http://222.81.120.233/apull.rockoncall.com/live/656eecf8c37f5dd153ca7
 ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/112973a19786a7284270affe3ad72630.flv
 ELTA体育,http://119.167.135.65/apull.rockoncall.com/live/6c6299383798c66c66374b9065c656b0.flv
 
+FightBox,https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
+FITE24/7,https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+
 ESPN,http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+Fast&FunBox,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+美亚C,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+ACISportTV,https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 Fox Sports,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 PGA Tour,https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
@@ -460,6 +455,8 @@ PGA Tour,https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 now Sports HD,https://t.freetv.fun/live/now-sportsjing-xuan.m3u8
 
 KTV Sport,https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 TNT Sports(国外),https://t.freetv.fun/live/n-sports-1.m3u8
 PSL(国外),http://103.175.242.10:8080/tsports1/index.m3u8
@@ -597,6 +594,11 @@ TVBJ2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 KBS World HD[geo-blocked],https://t.freetv.fun/live/kbs-world.m3u8
 KBS World HD[geo-blocked],https://t.freetv.fun/live/pbs-ket-world-480p.m3u8
 
+RTRTV,https://tv3ecuador.site/hls/stream/index.m3u8
+TBSTV,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+
+
 Fashion World,https://t.freetv.fun/live/world-fashion-channel-en.m3u8
 
 Trace Urban,https://t.freetv.fun/live/trace-urban-3.m3u8
@@ -604,3 +606,16 @@ Trace Urban,https://t.freetv.fun/live/trace-urban-3.m3u8
 Armenia TV,https://t.freetv.fun/live/usa-armenia.m3u8
 
 Deluxe Music,https://t.freetv.fun/live/deluxe-music-winter-time.m3u8
+
+ActivaTV,https://streamtv.mediasector.es/hls/activatv/index.m3u8
+ADATV,https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
+AfrobeatTVEntertainment,https://stream.ecable.tv/afrobeats/index.m3u8
+A2iMusic,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+¡VivaLatino!,http://stream.mcquack.net/285/index.m3u8
+Black,http://stream.mcquack.net/283/index.m3u8
+
+¡OPA!,https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+ABCTVPlus,https://c.mjh.nz/abc-tv-plus.m3u8
+AntenaStars,https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
+BBCDrama,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
